@@ -1,4 +1,6 @@
-# Anotācija
+# Spēle "Iemācies Python!"
+
+## Anotācija
 
 Jaunrades darba “Iemācies Python!” darba autors ir Salaspils 1. vidusskolas 12. b klases skolnieks Emīls Juris Gelašs un darba vadītājs ir Salaspils 1. vidusskolas programmēšanas skolotājs Kirils Logins.
 

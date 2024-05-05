@@ -2,7 +2,7 @@
 
 Jaunrades darba “Iemācies Python!” darba autors ir Salaspils 1. vidusskolas 12. b klases skolnieks Emīls Juris Gelašs un darba vadītājs ir Salaspils 1. vidusskolas programmēšanas skolotājs Kirils Logins.
 
-Galvenais projekta darba produkts ir spēles prototips, kas izveidots ar programmatūras “Unity” palīdzību. Dokumentācija sastāv no
+Galvenais projekta darba produkts ir spēles prototips, kas izveidots ar programmatūras “Unity” palīdzību.
 
 Darba mērķis ir izveidot spēli latviešu valodā, kas iemāca programmēšanas valodas “_Python_” pamatus interesantākā un interaktīvā veidā. Spēles mērķauditorija ir skolēni vecumā no 12 līdz 17 gadiem.
 

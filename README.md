@@ -2,8 +2,8 @@
 
 ## Instrukcija
 1. Ielādē failus .zip formātā
-2. Atpako failus (angliski - unzip)
-3. Atpakotajā mapē atrodi mapi "IemāciesPython" un palaid failu "IemaciesPython.exe"
+2. Atrodi mapi "IemaciesPython.zip" un atpako to
+3. Atpakotajā mapē atver failu "IemaciesPython.exe"
 4. Izbaudi spēli!
 
 Spēles faili arī pieejami saitē - [_https://juris420.itch.io/iemacies-python_](https://juris420.itch.io/iemacies-python)
@@ -179,7 +179,7 @@ Lai izstrādātu šādu spēli ir nepieciešams aptvert un izmantot objektorient
 
 ## 2.5 Produkta lietošana un lietošanas vides raksturojums
 
-Pagaidām šis produkts ir veidots tikai datoram, jo pagaidām izveidotais dizains nav dinamisks (nepielāgojas ekrāna izmēram), tāpēc to uz telefona vai kādas citas ierīces, kas nav dators, pagaidām nevar izmantot. Lai uz datora varētu spēlēt šo spēli, nepieciešama operētājsistēma _Windows._ Lai šo spēli varētu spēlēt uz citām ierīcēm (telefons, planšetdators) un citām operētājsistēmām, būtu nepieciešams spēlei pievienot datubāzi, kas satur nepieciešamos failus, lai kompilētu _Python_ failus _–_ spēle nosūta pieprasījumu ar noteiktu kodu, datubāzē tiek kompilēts šis kods un izvaddati tiek atgriezti spēlei. Šim piegājienam būtu nepieciešams internets spēlēšanas laikā. Lai zinātu kā jāspēlē spēle, ir ierīkota detalizēta pamācība, kur aprakstīti spēles elementi un kā tos izmantot. Nepieciešams arī internets, lai ielādētu spēles failus uz sava datora, vai arī USB atmiņas karte vai kāda cita ierīce failu uzturēšanai, ja spēles faili jau ir pieejami lokāli. Tā kā spēle aizņem noteiktu atmiņu (262Mb), nepieciešams pieejams norādītais atmiņas apjoms.
+Pagaidām šis produkts ir veidots tikai datoram, jo pagaidām izveidotais dizains nav dinamisks (nepielāgojas ekrāna izmēram), tāpēc to uz telefona vai kādas citas ierīces, kas nav dators, pagaidām nevar izmantot. Lai uz datora varētu spēlēt šo spēli, nepieciešama operētājsistēma _Windows._ Lai šo spēli varētu spēlēt uz citām ierīcēm (telefons, planšetdators) un citām operētājsistēmām, būtu nepieciešams spēlei pievienot datubāzi, kas satur nepieciešamos failus, lai kompilētu _Python_ failus _–_ spēle nosūta pieprasījumu ar noteiktu kodu, datubāzē tiek kompilēts šis kods un izvaddati tiek atgriezti spēlei. Šim piegājienam būtu nepieciešams internets spēlēšanas laikā. Lai zinātu kā jāspēlē spēle, ir ierīkota detalizēta pamācība, kur aprakstīti spēles elementi un kā tos izmantot. Nepieciešams arī internets, lai ielādētu spēles failus uz sava datora, vai arī USB atmiņas karte vai kāda cita ierīce failu uzturēšanai, ja spēles faili jau ir pieejami lokāli. Tā kā spēle aizņem noteiktu atmiņu, nepieciešams pieejams norādītais atmiņas apjoms.
 
 Produktam ir pievienota datubāze ar _SQLite3_ palīdzību. Datubāze nodrošina lietotāju reģistrāciju un kontus, kas saglabāti lokāli. Katram lietotājam tiek saglabāti izpildītie uzdevumi.
 

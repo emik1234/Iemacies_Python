@@ -4,6 +4,7 @@
 1. Ielādē failus .zip formātā
 2. Atpako failus (angliski - unzip)
 3. Atpakotajā mapē atrodi mapi "IemāciesPython" un palaid failu "IemaciesPython.exe"
+4. Izbaudi spēli!
 
 Spēles faili arī pieejami saitē - [_https://juris420.itch.io/iemacies-python_](https://juris420.itch.io/iemacies-python)
 

@@ -80,7 +80,6 @@ public class SaveFile : MonoBehaviour
                     {
                         if (!Char.IsDigit(letter) && !Char.IsLetter(letter) && letter != '_')
                         {
-
                             confirmationText.text = "Nederīgs nosaukums!";
                             confirmationText.color = red;
                             yield return new WaitForSeconds(2f);
@@ -93,18 +92,16 @@ public class SaveFile : MonoBehaviour
                         fileName += "." + extension;
                         string filePath = Path.Combine(folderPath, fileName);
                         data.GetComponent<TextMeshProUGUI>().text = "";
-                        
+                        File.WriteAllText(filePath, text);
                         confirmationText.text = "Fails Saglabāts!";
                         confirmationText.color = green;
                         yield return new WaitForSeconds(2f);
                         confirmationText.text = "";
                         saveScreen.SetActive(false);
-                        File.WriteAllText(filePath, text);
                     }
 
                     button.interactable = true;
                 } else {
-                    
                     confirmationText.text = "Fails ar šādu nosaukumu jau eksistē!";
                     confirmationText.color = red;
                     yield return new WaitForSeconds(2f);

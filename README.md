@@ -2,8 +2,8 @@
 
 ## Instrukcija
 1. Ielādē failus .zip formātā
-2. Atpako failus (angliski - unzip)
-3. Atpako mapi "IemaciesPython.zip" un tajā atrodi failu "IemaciesPython.exe" - palaid to
+2. Atrodi mapi "IemaciesPython.zip" un atpako to
+3. Atpakotajā mapē atver failu "IemaciesPython.exe"
 4. Izbaudi spēli!
 
 Spēles faili arī pieejami saitē - [_https://juris420.itch.io/iemacies-python_](https://juris420.itch.io/iemacies-python)
